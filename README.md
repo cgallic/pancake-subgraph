@@ -31,3 +31,9 @@ For any of the subgraph: `blocks` as `[subgraph]`
 3. Run `graph auth https://api.thegraph.com/deploy/ '<ACCESS_TOKEN>'`
 
 4. Deploy via `yarn run deploy:[subgraph]`.
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
